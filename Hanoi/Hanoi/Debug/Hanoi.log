@@ -1,0 +1,3 @@
+﻿  Hanoi.c
+D:\start\C\2013\Hanoi\Hanoi\Hanoi.c(52,6): warning C4101:  'n' :참조되지 않은 지역 변수입니다.
+  Hanoi.vcxproj -> D:\start\C\2013\Hanoi\Debug\Hanoi.exe
