@@ -20,7 +20,7 @@
 	<th>3</th>
 	<th>4</th>
 	<th>5</th>
-	th>6</th>
+	<th>6</th>
 	<th>7</th>
 	<th>8</th>
 	<th>9</th>
@@ -38,54 +38,54 @@
 		<td>0100</td>
 		<td>0101</td>
 		<td>0110</td>
-	  <td>0111</td>
-    <td>1000</td>
-	  <td>1001</td>
-    <td>1010</td>
-	  <td>1011</td>
-    <td>1100</td>
-	  <td>1101</td>
-    <td>1110</td>
-	  <td>1111</td>
+	    <td>0111</td>
+        <td>1000</td>
+	    <td>1001</td>
+        <td>1010</td>
+	    <td>1011</td>
+        <td>1100</td>
+	    <td>1101</td>
+        <td>1110</td>
+		<td>1111</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 		<td>0</td>
-	  <td>1</td>
-    <td>2</td>
-	  <td>1</td>
-    <td>3</td>
-	  <td>1</td>
-    <td>2</td>
-	  <td>1</td>
-    <td>4</td>
-	  <td>1</td>
-    <td>2</td>
-	  <td>1</td>
-    <td>3</td>
-	  <td>1</td>
-    <td>2</td>
-	  <td>1</td>  
+	    <td>1</td>
+        <td>2</td>
+	    <td>1</td>
+        <td>3</td>
+		<td>1</td>
+		<td>2</td>
+		<td>1</td>
+		<td>4</td>
+		<td>1</td>
+		<td>2</td>
+		<td>1</td>
+		<td>3</td>
+		<td>1</td>
+		<td>2</td>
+		<td>1</td>  
 	</tr><!-- 두번째 줄 끝 -->
-  <tr><!-- 세번째 줄 시작 -->
-    <td>-</td>
-	  <td>></td>
-    <td><</td>
-	  <td>></td>
-    <td>></td>
-	  <td>></td>
-    <td><</td>
-	  <td>></td>
-    <td><</td>
-	  <td>></td>
-    <td><</td>
-	  <td>></td>
-    <td>></td>
-	  <td>></td>
-    <td><</td>
-	  <td>></td>  
+	<tr><!-- 세번째 줄 시작 -->
+		<td>-</td>
+		<td>></td>
+		<td><</td>
+		<td>></td>
+		<td>></td>
+		<td>></td>
+		<td><</td>
+		<td>></td>
+		<td><</td>
+		<td>></td>
+		<td><</td>
+		<td>></td>
+		<td>></td>
+		<td>></td>
+		<td><</td>
+		<td>></td>  
 	</tr><!-- 세번째 줄 끝 -->
-	      <tr><!-- 세번째 줄 시작 -->
-    <td>-</td>
+	<tr><!-- 세번째 줄 시작 -->
+		<td>-</td>
 	  <td>2</td>
     <td>3</td>
 	  <td>3</td>
